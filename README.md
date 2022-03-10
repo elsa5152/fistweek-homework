@@ -11,4 +11,4 @@ This is the detail for firstweek-homework.
 
 ## Link my homework
 
-[Horiseon-page]{https://elsa5152.github.io/fistweek-homework/#search-engine-optimization}
+[Horiseon-page](https://elsa5152.github.io/fistweek-homework/#search-engine-optimization)
