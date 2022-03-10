@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* This is a single line comment*/
 body {
     background-color: #d9dcd6;
 }
@@ -23,7 +24,22 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/*
+*  "p" style
+*
 
+*font-family: 'Gill Sans', 
+*'Gill Sans MT', Calibri, 
+*'Trebuchet MS', sans-serif;
+*color: #ffffff;
+
+*/
+
+/*
+  This is
+  a multi-line
+  comment
+*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -133,7 +149,13 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
+***
+* A paragraph with information
+* that linded by search-engine-optimization
+* topic.
+***
+*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +164,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
+***
+* A paragraph with information
+* that linded by online-reputation-management
+* topic.
+***
+*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +179,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
+***
+* A paragraph with information
+* that linded by social-media-marketing
+* topic.
+***
+*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +222,12 @@ p {
     font-size: 36px;
 }
 
+/*
+***
+* A line that shows who
+* make this website
+$*/
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +238,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
