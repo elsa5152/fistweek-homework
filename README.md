@@ -8,3 +8,7 @@ This is the detail for firstweek-homework.
 * Open the link in other tab and find the bug in the webpage
 * Copy the right code from the webpage to vs-code 
 * Update to the repo
+
+## Link my homework
+
+[Horiseon-page]{https://elsa5152.github.io/fistweek-homework/#search-engine-optimization}
